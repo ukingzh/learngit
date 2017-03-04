@@ -3,3 +3,4 @@ git is a distributed version control system
 git is a free sofeware under GPL
 one more step
 git tracks changes of files!
+Creating a branch is quick and simple
