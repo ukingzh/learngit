@@ -7,4 +7,7 @@ creating a branch is quick and simple!
 doing sth.on branch dev
 writing on branch dev
 issue-001 done
-
+third time on branch dev
+without commit on branch dev now i words about on master
+this time try to pratice stash how i dont know what is next
+come to know the stash thing
